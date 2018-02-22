@@ -5,4 +5,6 @@ package org.pltw.examples.penguincolon;
  */
 
 public class Penguin {
+    public double breedRate = .25;
+
 }

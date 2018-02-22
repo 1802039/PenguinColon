@@ -5,4 +5,9 @@ package org.pltw.examples.penguincolon;
  */
 
 public class Igloos {
+    public int numOfIgloos;
+    public int maxPingInIgloo;
+
+
+
 }
