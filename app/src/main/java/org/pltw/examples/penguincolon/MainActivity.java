@@ -3,6 +3,8 @@ package org.pltw.examples.penguincolon;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import static org.pltw.examples.penguincolon.Penguin.getPingus;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -10,11 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Penguin minHunt;
-        Penguin pingus;
-
-        if (minHunt >= pingus) {
-        }
         }
 
 
