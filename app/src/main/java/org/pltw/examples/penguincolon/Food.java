@@ -5,7 +5,7 @@ package org.pltw.examples.penguincolon;
  */
 
 public class Food {
-    public String foodType;
+    public static String foodType;
 
 
 
