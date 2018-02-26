@@ -7,6 +7,11 @@ package org.pltw.examples.penguincolon;
 public class Igloos {
     public int numOfIgloos;
     public int maxPingInIgloo;
+    Food foodType;
+
+    public Food getFoodType() {
+        return foodType;
+    }
 
 
 
