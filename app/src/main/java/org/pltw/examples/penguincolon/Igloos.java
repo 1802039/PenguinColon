@@ -10,7 +10,8 @@ public class Igloos {
     Food foodType;
 
     public Food getFoodType() {
-        return foodType;
+        return
+                foodType;
     }
 
 
