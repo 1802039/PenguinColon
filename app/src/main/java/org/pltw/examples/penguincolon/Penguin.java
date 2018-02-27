@@ -7,18 +7,24 @@ package org.pltw.examples.penguincolon;
 public class Penguin {
     public double breedRate = .25; //Here for future purposes
     public static int minHunt = 2;
-    public static int pingus=20;
+    public static int numOfPingus =20;
+
 
     public static int getMinHunt() {
         return minHunt;
     }
 
-    public static int getPingus() {
-        return pingus;
+    public static int getNumOfPingus() {
+        return numOfPingus;
     }
 
-    public static void setPingus(int pingus) {
-        Penguin.pingus = pingus;
+    public static void setNumOfPingus(int numOfPingus) {
+        Penguin.numOfPingus = numOfPingus;
+    }
+
+    Penguin (int numOfPinguspingus){ //To be fair, i dont know what im doing here
+
+
     }
 
 
