@@ -24,7 +24,6 @@ public class Penguin {
 
     Penguin (int numOfPinguspingus){ //To be fair, i dont know what im doing here
 
-
     }
 
 
